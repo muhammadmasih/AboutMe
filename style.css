@@ -163,7 +163,7 @@ nav{
     border-radius: 5px;
 }
 .featured-name{
-    font-size: 40px;
+    font-size: 50px;
     font-weight: 600;
     color: var(--text-color-second);
     margin-block: 20px;
@@ -171,6 +171,7 @@ nav{
 .typedText{
     text-transform: capitalize;
     color: var(--text-color-third);
+    
 }
 .featured-text-info{
     font-size: 15px;
